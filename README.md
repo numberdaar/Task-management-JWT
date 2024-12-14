@@ -23,8 +23,8 @@ To run this application locally or deploy it on your server, follow these steps:
 Clone the Repository:
 
 ```bash
-git clone https://github.com/aqdas77/task-app.git
-cd task-app
+git clone https://github.com/numberdaar/Task-management-JWT
+cd Task-management-JWT
 ```
 ## Install Dependencies:
 ```bash
@@ -76,13 +76,3 @@ Task App uses JSON Web Tokens (JWT) for user authentication and authorization. H
 **JSON Web Tokens (JWT)**: Secure user authentication and authorization.
 
 **Material UI**: Front-end CSS framework for responsive design.
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-
-## Contact
-If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer:
-
-**Email**: mohammadaqdas212@gmail.com
