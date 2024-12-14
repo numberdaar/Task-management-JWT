@@ -39,16 +39,12 @@ This is the **frontend** of the Task Management Application, a responsive and us
 
 Follow these steps to set up and run the project locally:
 
-### Prerequisites
-
-Make sure you have the following installed on your system:
-
-- [Node.js](https://nodejs.org/) (v16+ recommended)
-- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
-
 ### Installation
 
 1. Clone the repository:
 
    ```bash
    git clone https://github.com/numberdaar/Task-management-JWT/tree/main/frontend
+   npm i
+   npm start
+   ```
