@@ -37,7 +37,7 @@ Define the necessary environment variables, such as the JWT secret, database con
 
 ## Database Setup:
 
-Set up your preferred database (e.g., MongoDB,DynamoDB).
+Set up your preferred database (e.g., MongoDB).
 Update the database connection URL in your `.env` file.
 Start the Application:
 
@@ -68,10 +68,6 @@ Task App uses JSON Web Tokens (JWT) for user authentication and authorization. H
 **Express.js**: Web application framework for Node.js.
 
 **MongoDB**: NoSQL database for storing user data.
-
-**AWS DynamoDB**: NoSQL database for storing task data.
-
-**EJS**: Templating engine for rendering views.
 
 **JSON Web Tokens (JWT)**: Secure user authentication and authorization.
 
